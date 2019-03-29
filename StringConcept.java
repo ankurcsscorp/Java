@@ -1,20 +1,10 @@
 public class StringConcept
-
-
 {
- 
- 
   public static void main(String [] args)
 
-  
-  {
-
+{
 int k=0;
-  
- 
       String st="abcd";
- 
-  
      String str[]={"donkey","cab","apple"};
 
  String newStr[]= new String[str.length];
@@ -22,20 +12,14 @@ int k=0;
     char c[]=st.toCharArray();
   
   
-   
      for(int i=0;i<c.length;i++)
-  
  
      {
     
-    
-    
        for(int j=0;j<str.length;j++)
 
-  
       {
  
-    
        if(st.charAt(i)==str[j].charAt(0))
 
           
