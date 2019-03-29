@@ -46,7 +46,7 @@ newStr[k]=str[j];
     System.out.print(newStr[i] +" ");
 
 	}
- 
+
 }
 
 }
