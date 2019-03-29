@@ -4,8 +4,8 @@ public class StringConcept
 
 {
 int k=0;
-      String st="abcd";
-     String str[]={"donkey","cab","apple"};
+      String st="fguecbdavwyxzhijklmnopqrst";
+     String str[]={"geeksforgeeks", "is", "the","best", "place", "for", "learning"};
 
  String newStr[]= new String[str.length];
   
@@ -43,7 +43,7 @@ newStr[k]=str[j];
 
 	{
 	
-    System.out.println(newStr[i]);
+    System.out.print(newStr[i] +" ");
 
 	}
  
