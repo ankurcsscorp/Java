@@ -1,4 +1,4 @@
-package com.elc.java.programs;
+
 
 public class TwiceOccurred {
 static void twice(int arr[])
