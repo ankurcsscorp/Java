@@ -1,4 +1,4 @@
-package com.elc.java.programs;
+
 
 public class NextGratterElement {
 	 static void nextBig(int arr[], int n) 
