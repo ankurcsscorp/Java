@@ -1,4 +1,4 @@
-package com.elc.java.programs;
+
 
 public class NextSmallerNumber {
 	static void nextSmall(int arr[], int n) 
